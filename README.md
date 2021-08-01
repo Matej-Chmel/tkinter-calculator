@@ -1,2 +1,2 @@
-# tkinter-calculator
-Calculator clone using Tkinter.
+# Calculator
+Calculator clone made with Python and Tkinter.
